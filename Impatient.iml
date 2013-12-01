@@ -17,7 +17,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-library" level="project" />
     <orderEntry type="library" name="scala-compiler" level="project" />
-    <orderEntry type="library" name="org.scalatest:scalatest_2.10:2.0" level="project" />
+    <orderEntry type="library" name="scalatest-library" level="project" />
   </component>
 </module>
 
